@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar base %3D "https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3D"%3B%0Alet search %3D prompt("Search%3F space%3D%2B."%2C "youtube.com")%3B%0Abase %3D base%2Bsearch%3B%0Awindow.open(base)%3B%7D)()%3B
