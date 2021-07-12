@@ -1,0 +1,1 @@
+javascript:(function()%7Bdocument.write("<title>blocked%23about_blank<title>")%3B%0Adocument.domain.replace(document.url%2C "blocked%23about_blank")%3B%0Adocument.write("<p> <%2Fp>")%3B%7D)()%3B
